@@ -5,6 +5,8 @@ mod 'puppetlabs-ntp', '8.0.0'
 mod 'apache',
     :git => 'https://github.com/mattiashellstrom/puppet-apache.git'
 
+mod 'base',
+    :git => 'https://github.com/mattiashellstrom/puppet-base.git'
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
